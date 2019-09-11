@@ -2,7 +2,7 @@
 
 DESCRIPTION PLACEHOLDER
 
-## HI
+## A GitHub App built with probot that celebrates new user activity within your repository.
 
 FEATURES PLACEHOLDER
 
