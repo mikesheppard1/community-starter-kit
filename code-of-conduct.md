@@ -1,2 +1,7 @@
 CONTRIBUTOR CODE
-CONTRIBUTOR COVENANT CODE OF CONDUCT
+Our Pledge
+Our Standards
+Our Responsibilities
+Scope
+Enforcement
+Attribution
