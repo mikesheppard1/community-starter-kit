@@ -1,2 +1,2 @@
 CONTRIBUTOR CODE
-Latest Version
+Latest-Version
